@@ -7,10 +7,14 @@
 	<license>License GNU General Public License version 2 or later</license>
 	<authorEmail>stefan@databauer.ch</authorEmail>
 	<authorUrl>https://www.ludothekprogramm.ch</authorUrl>
-	<version>3.33.0</version>
+	<version>3.35.0</version>
 	<description>Quick Icons module for LUPO</description>
 	<files>
 		<filename module="mod_lupo_quickicon">mod_lupo_quickicon.php</filename>
 	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB.mod_lupo_quickicon.ini</language>
+		<language tag="de-DE">language/de-DE.mod_lupo_quickicon.ini</language>
+	</languages>
 	<scriptfile>file.script.php</scriptfile>
 </extension>
